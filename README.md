@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="banner.png" alt="D365 F&O Banner" width="20%">
-</div>
+<picture>
+	<sourcemedia="(prefers-color-scheme: light)" srcset="banner.png">
+  <img alt="D365 F&O Banner" src="banner.png">
+</picture>
 
 <img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="50">
 
