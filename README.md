@@ -1,5 +1,5 @@
 <picture>
-	<sourcemedia="(prefers-color-scheme: light)" srcset="banner.png">
+	<sourcemedia="(prefers-color-scheme: dark)" srcset="banner.png">
   <img alt="D365 F&O Banner" src="banner.png">
 </picture>
 
