@@ -1,11 +1,11 @@
-<picture>
-	<sourcemedia="(prefers-color-scheme: dark)" srcset="banner.png">
-  <img alt="D365 F&O Banner" src="banner.png" height="50">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="banner.png">
+    <img alt="D365 F&O Banner" src="banner.png" height="100" style="background-color: white; padding: 10px; border-radius: 4px;">
+  </picture>
+</p>
 
-<img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="50">
-
-# MS Dynamics 365 Finance & Operations - Functional Consultant
+# MS Dynamics 365 Finance & Operations - Functional Consultant | <img src="">
 
 <div align="center">
 
