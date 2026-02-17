@@ -190,10 +190,10 @@ This repository includes:
 
 ## 📫 Contact Information
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
-- **Website**: [yourportfolio.com]
-- **Location**: [Your City, Country]
+- **LinkedIn**: www.linkedin.com/in/nrechiverri
+- **Email**: nrechiverri@outlook.com
+- **Website**: www.github.com/nrechiverri
+- **Location**: Manila, PH
 
 ## 📄 Resume
 
