@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# MS Dynamics 365 Finance & Operations - Functional Consultant | <img src="NRE_ID_Picture.jpg">
+# MS Dynamics 365 Finance & Operations - Functional Consultant <img src="https://github.com/nrechiverri/NREchiverri/blob/d64b6ebd7df864902c6bb819dc82b773f087ce82/NRE_ID_Picture.JPG?raw=true" height=50>
 
 <div align="center">
 
