@@ -15,11 +15,11 @@
     </tr>
 </table>
 
-# Dynamics 365 Finance & Operations - Functional Consultant
+# Microsoft Dynamics 365 Finance & Operations - Functional Consultant
 
 <div align="center">
 
-**Microsoft Dynamics 365 F&O Expert | Business Process Optimization | Digital Transformation**
+**MS D365 F&O Expert | Business Process Optimization | Digital Transformation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nrechiverri)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nrechiverri@outlook.com)
