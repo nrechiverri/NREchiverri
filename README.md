@@ -2,13 +2,7 @@
   <img src="banner.png" alt="D365 F&O Banner" width="20%">
 </div>
 
-<table>
-    <tr>
-        <th>
-            <img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="100">
-        </th>
-    </tr>
-</table>
+<img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="50">
 
 # MS Dynamics 365 Finance & Operations - Functional Consultant
 
