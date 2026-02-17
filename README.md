@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# MS Dynamics 365 Finance & Operations - Functional Consultant | <img src="">
+# MS Dynamics 365 Finance & Operations - Functional Consultant | <img src="NRE_ID_Picture.jpg">
 
 <div align="center">
 
@@ -19,7 +19,7 @@
 
 ---
 
-A comprehensive portfolio showcasing my expertise and experience as a Microsoft Dynamics 365 Finance & Operations (F&O) functional consultant.
+A comprehensive portfolio showcasing my expertise and experiences as a Microsoft Dynamics 365 Finance & Operations (F&O) Functional Consultant.
 
 ## 📋 Table of Contents
 
