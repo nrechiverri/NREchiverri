@@ -7,6 +7,14 @@
 
 </div>
 
+<table>
+    <tr>
+        <th>
+            <img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="150">
+        </th>
+    </tr>
+</table>
+
 # Dynamics 365 Finance & Operations - Functional Consultant
 
 <div align="center">
