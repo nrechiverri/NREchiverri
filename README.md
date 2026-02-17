@@ -217,7 +217,7 @@ Download my full resume: [PDF Link]
 
 ## 📜 License
 
-This portfolio is © 2025 [Your Name]. All rights reserved.
+This portfolio is © 2025 Neil Echiverri. All rights reserved.
 
 ---
 
