@@ -10,16 +10,16 @@
 <table>
     <tr>
         <th>
-            <img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="150">
+            <img src="https://github.com/nrechiverri/nrechiverri.github.io/blob/5e619110eedcee249a881e54b6eeefcd45e476eb/NRE_ID_Picture.JPG" width="auto" height="100">
         </th>
     </tr>
 </table>
 
-# Microsoft Dynamics 365 Finance & Operations - Functional Consultant
+# MS Dynamics 365 Finance & Operations - Functional Consultant
 
 <div align="center">
 
-**MS D365 F&O Expert | Business Process Optimization | Digital Transformation**
+**MS D365FO Expert | Business Process Optimization | Digital Transformation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nrechiverri)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:nrechiverri@outlook.com)
