@@ -3,7 +3,7 @@
 ![D365 F&O Banner](https://via.placeholder.com/1200x300/0078D4/ffffff?text=Dynamics+365+Finance+%26+Operations+Portfolio)
 
 <!-- Alternative: Replace with your custom banner -->
-<!-- <img src="./assets/banner.png" alt="D365 F&O Banner" width="100%"> -->
+<!-- <img src="./assets/Microsoft_Dynamics_365_Logo.png" alt="D365 F&O Banner" width="100%"> -->
 
 </div>
 
